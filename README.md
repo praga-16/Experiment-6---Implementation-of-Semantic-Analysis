@@ -23,8 +23,8 @@ Process the text file and display the verbs and their synonyms.
 
 ## Program:
 ```
-# Reg.no: 212221230126
-# Name: Yuvadarshini S
+# Reg.no: 212221240039
+# Name: PRAGATHEESVARAN AB
 
 import nltk
 from nltk.corpus import wordnet
